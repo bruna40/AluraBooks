@@ -1,8 +1,9 @@
 import React from 'react';
+import { Button } from './style';
 
 
 export const AbBotao = () => {
   return (
-    <button>Clique aqui!</button>
+    <Button>Clique aqui!</Button>
   );
 };
